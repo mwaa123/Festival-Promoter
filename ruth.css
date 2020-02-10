@@ -1,7 +1,14 @@
+body{
+    background-image: url(new.png);
 
+}
 
 
 .btn{
     text-align: center;
 
 }
+img{
+    width:400px;
+    height: 400px;
+}p
